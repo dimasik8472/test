@@ -1,2 +1,2 @@
 # test
-test direc
+test directory
